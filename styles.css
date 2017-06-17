@@ -1,0 +1,78 @@
+html {
+  background-color:#f7b9d4;
+}
+
+h1 {
+    text-align:center;
+    font-family: 'Codystar';
+    font-size:50px;
+}
+
+h2 {
+    font-family:'Arial';
+}
+
+p {
+    text-align:center;
+    font-family:'Arial';
+}
+
+img {
+    display:block;
+    margin:auto;
+}
+
+ol {
+    font-family:'Arial';
+}
+
+li {
+    font-family:'Arial';
+}
+
+a {
+    font-family:'Arial';
+}
+
+.nav {
+    text-align:right;
+}
+
+.mammal {
+      color:red;
+      font-weight:bold;
+}
+
+.bird {
+      color:blue;
+      font-style:italic;
+}
+
+.fish {
+      color:orange;
+      text-decoration:underline;
+}
+
+#tiger {
+      color:sienna;
+}
+
+#wolf {
+      color:tan;
+}
+
+#sheep {
+      color:steelblue;
+}
+
+#parakeet {
+      color:lime;
+}
+
+#piranha {
+      color:gold;
+}
+
+#tuna {
+      color:purple;
+}
